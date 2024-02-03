@@ -24,7 +24,7 @@ Praeguse seisuga on seal tavapärasega võrreldes muudetud:
 LSFi punane: `#A9005E`
 
 
-# LSFi favicon
+# LSFi _favicon_
 
 1. Laadisin `media/templates/site/cassiopeia_cassiopeia_for_lsf/images` kataloogi faili `LSF_favicon.svg`.
 2. Kopeerisin `index.php` Cassiopeia _template_'ist uude _template_'i (Cassiopeia_cassiopeia_for_lsf).
