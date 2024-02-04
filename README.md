@@ -24,6 +24,15 @@ Praeguse seisuga on seal tavapärasega võrreldes muudetud:
 LSFi punane: `#A9005E`
 
 
+# Keeled
+
+Suvejooksu leht peab olemas olema eesti ja inglise keeles. Praeguse seisuga on mõlemad keeled lehele installitud ning menüü/artikli/kategooria loomisel tuleb seda teha mõlemas keeles (mitte tehniliste nõuete pärast, vaid sisu kvaliteedi tagamiseks).
+
+Eesti- ja inglisekeelse artikli omavaheliseks "ühendamiseks" (st selleks, et veebilehel emba kumba lippu vajutades ei satuks kasutaja mitte vastava keele esilehele, vaid vastavas keeles kirjutatud samale artiklile, mida ta teises keeles just luges) tuleb emmas-kummas lisada **Associations**.
+
+![](pildid/Joomla_keeled.png)
+
+
 # LSFi _favicon_
 
 1. Laadisin `media/templates/site/cassiopeia_cassiopeia_for_lsf/images` kataloogi faili `LSF_favicon.svg`.
