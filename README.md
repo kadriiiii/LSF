@@ -28,7 +28,10 @@ LSFi punane: `#A9005E`
 
 Suvejooksu leht peab olemas olema eesti ja inglise keeles. Praeguse seisuga on mõlemad keeled lehele installitud ning menüü/artikli/kategooria loomisel tuleb seda teha mõlemas keeles (mitte tehniliste nõuete pärast, vaid sisu kvaliteedi tagamiseks).
 
-Eesti- ja inglisekeelse artikli omavaheliseks "ühendamiseks" (st selleks, et veebilehel emba kumba lippu vajutades ei satuks kasutaja mitte vastava keele esilehele, vaid vastavas keeles kirjutatud samale artiklile, mida ta teises keeles just luges) tuleb emmas-kummas lisada **Associations**.
+Eesti- ja inglisekeelse artikli omavaheliseks "ühendamiseks" (st selleks, et veebilehel emba kumba lippu vajutades ei satuks kasutaja mitte vastava keele esilehele, vaid vastavas keeles kirjutatud samale artiklile, mida ta teises keeles just luges) 
+
+1. Lisa emmas-kummas artiklis **Associations** (vt kuvatõmmist).
+2. Lisa **Menus** all menüü elementidele samuti **Associations**.
 
 ![](pildid/Joomla_keeled.png)
 
